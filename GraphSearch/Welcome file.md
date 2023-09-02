@@ -1,6 +1,6 @@
 # DFS + BFS + Serach
 
-This doc will describe about the basic template of DFS and BFS and how to construct it. We are going to use C++ not java, for learnin
+This doc will describe about the basic template of DFS and BFS and how to construct it. We are going to use C++ not java, for learning. C++ is more  
 
 # 文件
 
@@ -144,5 +144,5 @@ B --> D{菱形}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDkxNiwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbODI2MzA0NzY3LC0yNjk4MDI2NDRdfQ==
 -->
