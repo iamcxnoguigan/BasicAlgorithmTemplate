@@ -4,7 +4,7 @@ This doc will describe about the basic template of DFS and BFS and how to constr
 
 # 文件
 
-StackEdit中文版 将您的文件存储在您的浏览器中，这意味着您的所有文件都会自动保存在本地并且可以**离线访问！**
+
 
 ## 创建文件和文件夹
 
@@ -144,5 +144,6 @@ B --> D{菱形}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg1NTQ2NjcsLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbMTIyMzQ5MjcyNywtMTQ3ODU1NDY2NywtMj
+Y5ODAyNjQ0XX0=
 -->
